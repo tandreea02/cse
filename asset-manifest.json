@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ia/static/css/main.35e87768.css",
-    "main.js": "/ia/static/js/main.cccec38a.js",
-    "static/js/787.29750a57.chunk.js": "/ia/static/js/787.29750a57.chunk.js",
-    "static/media/firstcarquizlogo.png": "/ia/static/media/firstcarquizlogo.9d8cae9ea347eeba052a.png",
-    "index.html": "/ia/index.html",
-    "main.35e87768.css.map": "/ia/static/css/main.35e87768.css.map",
-    "main.cccec38a.js.map": "/ia/static/js/main.cccec38a.js.map",
-    "787.29750a57.chunk.js.map": "/ia/static/js/787.29750a57.chunk.js.map"
+    "main.css": "/cse/static/css/main.35e87768.css",
+    "main.js": "/cse/static/js/main.27f295b7.js",
+    "static/js/787.30b33d0c.chunk.js": "/cse/static/js/787.30b33d0c.chunk.js",
+    "static/media/firstcarquizlogo.png": "/cse/static/media/firstcarquizlogo.9d8cae9ea347eeba052a.png",
+    "index.html": "/cse/index.html",
+    "main.35e87768.css.map": "/cse/static/css/main.35e87768.css.map",
+    "main.27f295b7.js.map": "/cse/static/js/main.27f295b7.js.map",
+    "787.30b33d0c.chunk.js.map": "/cse/static/js/787.30b33d0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35e87768.css",
-    "static/js/main.cccec38a.js"
+    "static/js/main.27f295b7.js"
   ]
 }
