@@ -1,0 +1,49 @@
+.page-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  color: white;
+  background-color: #301934;
+}
+
+.content-wrap {
+ color: white;
+ justify-content: center;
+}
+
+.link-container {
+ align-items: center;
+ display: flex;
+ justify-content: center;
+ flex-direction: row;
+}
+
+.App-header {
+ min-height: 100vh;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+ font-size: calc(10px + 2vmin);
+ position: relative;
+ align-self: column;
+}
+
+.App-link {
+ color: #61dafb;
+}
+
+.title-container {
+  align-self: center;
+}
+
+.num-input {
+  align-self: center;
+  overflow: auto;
+}
+
+.text-container {
+  align-self: center;
+  justify-content: center;
+}
