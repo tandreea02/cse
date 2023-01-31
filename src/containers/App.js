@@ -14,7 +14,7 @@ const App = () => {
         <h1 className="display-2"> FIRST CAR </h1>
         <h2 className="display-2">Documentation</h2>
         <header className="">
-          <BrowserRouter>
+          <BrowserRouter basename="/cse">
             <div className="page-container">
               <br />
               <Link to="../about-cars" target="" id="about-cars"><button className="about-cars-button">ABOUT CARS</button></Link>
